@@ -130,9 +130,6 @@ const config: ExpoConfig = {
     typedRoutes: true,
     reactCompiler: true,
   },
-  runtimeVersion: {
-    policy: "appVersion"
-  },
 };
 
 export default config;
